@@ -1,7 +1,4 @@
-
-
-#PLEASE COPY THE CONTAINT OF THIS FILE IN A PYTHON FILE (e.g. super_exo.py).
-#THEN DO IN YOUR BACH TERMINAL "streamlit run super_exo.py"
+#this page url -> https://appp1-vbvxxswaiodyhriql4c5q6.streamlit.app/
 
 import streamlit as st
 import pandas as pd
